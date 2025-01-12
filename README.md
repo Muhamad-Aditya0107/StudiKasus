@@ -1,5 +1,6 @@
 # StudiKasus
 Membuat studi kasus - pembelajaran dicoding
 
-#Latihan conflict  
-* Dari si MAIN
+
+# Latihan conflict 
+* Dari si DEVELOP
